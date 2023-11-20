@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\MGQSC#CLASS\SimpleCalculatorApp\bin\Debug\net7.0\SimpleCalculatorApp.exe
+C:\Users\DELL\Desktop\MGQSC#CLASS\SimpleCalculatorApp\bin\Debug\net7.0\SimpleCalculatorApp.deps.json
+C:\Users\DELL\Desktop\MGQSC#CLASS\SimpleCalculatorApp\bin\Debug\net7.0\SimpleCalculatorApp.runtimeconfig.json
+C:\Users\DELL\Desktop\MGQSC#CLASS\SimpleCalculatorApp\bin\Debug\net7.0\SimpleCalculatorApp.dll
+C:\Users\DELL\Desktop\MGQSC#CLASS\SimpleCalculatorApp\bin\Debug\net7.0\SimpleCalculatorApp.pdb
+C:\Users\DELL\Desktop\MGQSC#CLASS\SimpleCalculatorApp\obj\Debug\net7.0\SimpleCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\MGQSC#CLASS\SimpleCalculatorApp\obj\Debug\net7.0\SimpleCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\MGQSC#CLASS\SimpleCalculatorApp\obj\Debug\net7.0\SimpleCalculatorApp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\MGQSC#CLASS\SimpleCalculatorApp\obj\Debug\net7.0\SimpleCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\MGQSC#CLASS\SimpleCalculatorApp\obj\Debug\net7.0\SimpleCalculatorApp.dll
+C:\Users\DELL\Desktop\MGQSC#CLASS\SimpleCalculatorApp\obj\Debug\net7.0\refint\SimpleCalculatorApp.dll
+C:\Users\DELL\Desktop\MGQSC#CLASS\SimpleCalculatorApp\obj\Debug\net7.0\SimpleCalculatorApp.pdb
+C:\Users\DELL\Desktop\MGQSC#CLASS\SimpleCalculatorApp\obj\Debug\net7.0\SimpleCalculatorApp.genruntimeconfig.cache
+C:\Users\DELL\Desktop\MGQSC#CLASS\SimpleCalculatorApp\obj\Debug\net7.0\ref\SimpleCalculatorApp.dll
