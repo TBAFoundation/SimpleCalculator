@@ -12,3 +12,4 @@ C:\Users\DELL\Desktop\MGQSC#CLASS\SimpleCalculatorApp\obj\Debug\net7.0\refint\Si
 C:\Users\DELL\Desktop\MGQSC#CLASS\SimpleCalculatorApp\obj\Debug\net7.0\SimpleCalculatorApp.pdb
 C:\Users\DELL\Desktop\MGQSC#CLASS\SimpleCalculatorApp\obj\Debug\net7.0\SimpleCalculatorApp.genruntimeconfig.cache
 C:\Users\DELL\Desktop\MGQSC#CLASS\SimpleCalculatorApp\obj\Debug\net7.0\ref\SimpleCalculatorApp.dll
+C:\Users\DELL\Desktop\MGQSC#CLASS\SimpleCalculatorApp\obj\Debug\net7.0\SimpleCalculatorApp.sourcelink.json

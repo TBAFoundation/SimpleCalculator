@@ -3,6 +3,7 @@ Console.WriteLine("Hello!");
 Console.WriteLine("===Welcome to Our Simple Calculator Application===");
 Console.WriteLine();
 
+Console.Clear();
 Console.WriteLine("Input the first number:");
 var firstNumber = double.Parse(Console.ReadLine()!);
 Console.WriteLine("Input the second number:");
